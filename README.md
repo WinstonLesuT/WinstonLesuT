@@ -1,4 +1,3 @@
-![MasterHead](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg)
 <h1 align="center">Hi 👋, I'm Winston Lamus</h1>
 <h3 align="center">Enthusiastic software developer who transitioned from building circuits to crafting software solutions. Leveraging my strong problem-solving skills homed in electrical engineering.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
